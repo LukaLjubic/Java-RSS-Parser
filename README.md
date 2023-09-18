@@ -1,7 +1,6 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ShaanCoding/Java RSS Parser">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Java RSS Parser</h3>
@@ -17,8 +16,6 @@
 
 ## About The Project
 
-![Screen Shot](
-)
 
 The Movie Management System is a web application designed for fetching movies, directors, and actors from an API through an RSS parser. It also provides the functionality to manage this movie data using a SQL database, perform CRUD (Create, Read, Update, Delete) operations on movies, and export the database into XML format. The system supports two roles: User and Admin.
 
