@@ -24,7 +24,7 @@ The Movie Management System is a web application designed for fetching movies, d
 
 ```sh
 git clone https://github.com/LukaLjubic/Java-RSS-Parser.git
-Java-RSS-Parser
+cd Java-RSS-Parser
 ```
 ## SQL Instalation
 Within the repository, you'll find an SQL script tailored for this project. To create the project's database, please follow these steps in Microsoft SQL Management Studio:
