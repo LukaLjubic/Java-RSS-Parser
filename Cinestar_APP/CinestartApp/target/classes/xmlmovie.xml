@@ -1,0 +1,2323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<moviearchive>
+    <movies>
+        <movie>
+            <id>1366</id>
+            <Title>Barbie</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/23.6.2023_14_46_05_Barbie.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;&lt;div style="text-align: justify;"&gt;Ružičasta avantura koja će oduševiti sve generacije. Ulogu ikonične lutke preuzima Margot Robbie, a njezinu bolju </Description>
+            <Duration>114</Duration>
+            <PhotoPath>src/main/resources/assets\23.6.2023_14_46_05_Barbie.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6220</Id>
+                    <Name>Margot Robbie</Name>
+                </actors>
+                <actors>
+                    <Id>6221</Id>
+                    <Name>Ryan Gosling</Name>
+                </actors>
+                <actors>
+                    <Id>6222</Id>
+                    <Name>Helen Mirren</Name>
+                </actors>
+                <actors>
+                    <Id>6223</Id>
+                    <Name>Will Ferrell</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6224</Id>
+                    <Name>Greta Gerwig</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1367</id>
+            <Title>Blue Beetle</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/15.6.2023_13_27_17_BlueBeetle_Montage_HR.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;&lt;div style="text-align: justify;"&gt;Blue Beetle je akcijska, moderna priča koja daje svjež, zabavan pogled na žanr superheroja u kombin</Description>
+            <Duration>128</Duration>
+            <PhotoPath>src/main/resources/assets\15.6.2023_13_27_17_BlueBeetle_Montage_HR.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6225</Id>
+                    <Name>Xolo Mariduena</Name>
+                </actors>
+                <actors>
+                    <Id>6226</Id>
+                    <Name>Susan Sarandon</Name>
+                </actors>
+                <actors>
+                    <Id>6227</Id>
+                    <Name>Bruna Marquezine</Name>
+                </actors>
+                <actors>
+                    <Id>6228</Id>
+                    <Name>Raoul Max Trujillo</Name>
+                </actors>
+                <actors>
+                    <Id>6229</Id>
+                    <Name>Harvey Guillén</Name>
+                </actors>
+                <actors>
+                    <Id>6230</Id>
+                    <Name>George Lopez</Name>
+                </actors>
+                <actors>
+                    <Id>6231</Id>
+                    <Name>Adriana Barraza</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6232</Id>
+                    <Name>Angel Manuel Soto</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1368</id>
+            <Title>Drakula: Buđenje zla</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/18.7.2023_12_05_02_Last_Voyage_Demeter_HR.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Zastrašujuća adaptacija jednog jezivog poglavlja popularnog horor romana Brama Stokera “Drakula”, u režiji Andréa Ovredala.
+
+Zastraš</Description>
+            <Duration>118</Duration>
+            <PhotoPath>src/main/resources/assets\18.7.2023_12_05_02_Last_Voyage_Demeter_HR.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6233</Id>
+                    <Name>Corey Hawkins</Name>
+                </actors>
+                <actors>
+                    <Id>6234</Id>
+                    <Name>Aisling Franciosi</Name>
+                </actors>
+                <actors>
+                    <Id>6235</Id>
+                    <Name>Liam Cunningham</Name>
+                </actors>
+                <actors>
+                    <Id>6236</Id>
+                    <Name>David Dastmalchian</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6237</Id>
+                    <Name>André Ovredal</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1369</id>
+            <Title>Gran Turismo</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/4.8.2023_15_58_28_Gran_TurismoHR_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Prema istinitoj priči Janna Mardenborougha, film je ultimativno ispunjenje snova mladog igrača Gran Turisma koji je svojim igračkim vješ</Description>
+            <Duration>135</Duration>
+            <PhotoPath>src/main/resources/assets\4.8.2023_15_58_28_Gran_TurismoHR_novi.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6238</Id>
+                    <Name>Archie Madekwe</Name>
+                </actors>
+                <actors>
+                    <Id>6239</Id>
+                    <Name>David Harbour</Name>
+                </actors>
+                <actors>
+                    <Id>6240</Id>
+                    <Name>Orlando Bloom</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6241</Id>
+                    <Name>Neill Blomkamp</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1370</id>
+            <Title>Mia i ja: Film - sink</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/20.6.2023_13_27_44_Mia_and_me.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Zavirite u čaroban svijet vilenjaka, jednoroga i zmajeva!
+
+Ono što počinje kao fantastična bajka, za Miju postaje stvarnost. Ona mora pronaći sn</Description>
+            <Duration>85</Duration>
+            <PhotoPath>src/main/resources/assets\20.6.2023_13_27_44_Mia_and_me.jpg</PhotoPath>
+            <Actors/>
+            <Directors>
+                <director>
+                    <Id>6242</Id>
+                    <Name>Adam Gunn</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1371</id>
+            <Title>Moje grčko vjenčanje 3</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/16.8.2023_12_31_10_MyBigFat3_BiH.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Svjetski fenomen MOJE GRČKO VJENČANJE, scenaristkinje i rediteljke Nie Vardalos, ponovo dolazi u kino dvorane, predstavljajući potpuno novu a</Description>
+            <Duration>92</Duration>
+            <PhotoPath>src/main/resources/assets\16.8.2023_12_31_10_MyBigFat3_BiH.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6243</Id>
+                    <Name>Nia Vardalos</Name>
+                </actors>
+                <actors>
+                    <Id>6244</Id>
+                    <Name>John Corbett</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6245</Id>
+                    <Name>Nia Vardalos</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1372</id>
+            <Title>Oppenheimer</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/9.5.2023_10_10_22_Oppenheimer_BiH.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Oppenheimer je biografski film o američkom fizičaru J. Robertu Oppenheimeru, koji je prozvan „ocem atomske bombe“. Oppenheimer je bio glavni</Description>
+            <Duration>180</Duration>
+            <PhotoPath>src/main/resources/assets\9.5.2023_10_10_22_Oppenheimer_BiH.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6246</Id>
+                    <Name>Cillian Murphy</Name>
+                </actors>
+                <actors>
+                    <Id>6247</Id>
+                    <Name>Emily Blunt</Name>
+                </actors>
+                <actors>
+                    <Id>6248</Id>
+                    <Name>Robert Downey</Name>
+                </actors>
+                <actors>
+                    <Id>6249</Id>
+                    <Name>Jr.</Name>
+                </actors>
+                <actors>
+                    <Id>6250</Id>
+                    <Name>Matt Damon</Name>
+                </actors>
+                <actors>
+                    <Id>6251</Id>
+                    <Name>Rami Malek</Name>
+                </actors>
+                <actors>
+                    <Id>6252</Id>
+                    <Name>Florence Pugh</Name>
+                </actors>
+                <actors>
+                    <Id>6253</Id>
+                    <Name>Benny Safdie</Name>
+                </actors>
+                <actors>
+                    <Id>6254</Id>
+                    <Name>Michael Angarano</Name>
+                </actors>
+                <actors>
+                    <Id>6255</Id>
+                    <Name>Josh Hartnett i Kenneth Branagh</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6256</Id>
+                    <Name>Christopher Nolan</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1373</id>
+            <Title>Pravednik 3: Konačno poglavlje</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/21.7.2023_16_22_51_EQUALIZER3_HR.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Nakon što se umirovio s pozicije vladinog hitmana, Robert McCall (Denzel Washington) pokušava pronaći utjehu u pronalasku pravde za sve potla</Description>
+            <Duration>109</Duration>
+            <PhotoPath>src/main/resources/assets\21.7.2023_16_22_51_EQUALIZER3_HR.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6257</Id>
+                    <Name>Denzel Washington</Name>
+                </actors>
+                <actors>
+                    <Id>6258</Id>
+                    <Name>Dakota Fanning</Name>
+                </actors>
+                <actors>
+                    <Id>6259</Id>
+                    <Name>David Denman</Name>
+                </actors>
+                <actors>
+                    <Id>6260</Id>
+                    <Name>Sonia Ammar</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6261</Id>
+                    <Name>Antoine Fuqua</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1374</id>
+            <Title>Zvuk slobode</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/16.8.2023_12_21_53_SOUNDFREEDOM_HR_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Sound of Freedom, film čija se radnja temelji na istinitoj priči užasne trgovine djecom, po gledanosti je potukao rekorde u američkim </Description>
+            <Duration>131</Duration>
+            <PhotoPath>src/main/resources/assets\16.8.2023_12_21_53_SOUNDFREEDOM_HR_novi.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6262</Id>
+                    <Name>Jim Caviezel</Name>
+                </actors>
+                <actors>
+                    <Id>6263</Id>
+                    <Name>Mira Sorvino</Name>
+                </actors>
+                <actors>
+                    <Id>6264</Id>
+                    <Name>Bill Camp</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6265</Id>
+                    <Name>Alejandro Monteverde</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1375</id>
+            <Title>Barbie</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/23.6.2023_14_46_05_Barbie.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;&lt;div style="text-align: justify;"&gt;Ružičasta avantura koja će oduševiti sve generacije. Ulogu ikonične lutke preuzima Margot Robbie, a njezinu bolju </Description>
+            <Duration>114</Duration>
+            <PhotoPath>src/main/resources/assets\23.6.2023_14_46_05_Barbie.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6266</Id>
+                    <Name>Margot Robbie</Name>
+                </actors>
+                <actors>
+                    <Id>6267</Id>
+                    <Name>Ryan Gosling</Name>
+                </actors>
+                <actors>
+                    <Id>6268</Id>
+                    <Name>Helen Mirren</Name>
+                </actors>
+                <actors>
+                    <Id>6269</Id>
+                    <Name>Will Ferrell</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6270</Id>
+                    <Name>Greta Gerwig</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1376</id>
+            <Title>Blue Beetle</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/15.6.2023_13_27_17_BlueBeetle_Montage_HR.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;&lt;div style="text-align: justify;"&gt;Blue Beetle je akcijska, moderna priča koja daje svjež, zabavan pogled na žanr superheroja u kombin</Description>
+            <Duration>128</Duration>
+            <PhotoPath>src/main/resources/assets\15.6.2023_13_27_17_BlueBeetle_Montage_HR.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6271</Id>
+                    <Name>Xolo Mariduena</Name>
+                </actors>
+                <actors>
+                    <Id>6272</Id>
+                    <Name>Susan Sarandon</Name>
+                </actors>
+                <actors>
+                    <Id>6273</Id>
+                    <Name>Bruna Marquezine</Name>
+                </actors>
+                <actors>
+                    <Id>6274</Id>
+                    <Name>Raoul Max Trujillo</Name>
+                </actors>
+                <actors>
+                    <Id>6275</Id>
+                    <Name>Harvey Guillén</Name>
+                </actors>
+                <actors>
+                    <Id>6276</Id>
+                    <Name>George Lopez</Name>
+                </actors>
+                <actors>
+                    <Id>6277</Id>
+                    <Name>Adriana Barraza</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6278</Id>
+                    <Name>Angel Manuel Soto</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1377</id>
+            <Title>Drakula: Buđenje zla</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/18.7.2023_12_05_02_Last_Voyage_Demeter_HR.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Zastrašujuća adaptacija jednog jezivog poglavlja popularnog horor romana Brama Stokera “Drakula”, u režiji Andréa Ovredala.
+
+Zastraš</Description>
+            <Duration>118</Duration>
+            <PhotoPath>src/main/resources/assets\18.7.2023_12_05_02_Last_Voyage_Demeter_HR.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6279</Id>
+                    <Name>Corey Hawkins</Name>
+                </actors>
+                <actors>
+                    <Id>6280</Id>
+                    <Name>Aisling Franciosi</Name>
+                </actors>
+                <actors>
+                    <Id>6281</Id>
+                    <Name>Liam Cunningham</Name>
+                </actors>
+                <actors>
+                    <Id>6282</Id>
+                    <Name>David Dastmalchian</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6283</Id>
+                    <Name>André Ovredal</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1378</id>
+            <Title>Gran Turismo</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/4.8.2023_15_58_28_Gran_TurismoHR_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Prema istinitoj priči Janna Mardenborougha, film je ultimativno ispunjenje snova mladog igrača Gran Turisma koji je svojim igračkim vješ</Description>
+            <Duration>135</Duration>
+            <PhotoPath>src/main/resources/assets\4.8.2023_15_58_28_Gran_TurismoHR_novi.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6284</Id>
+                    <Name>Archie Madekwe</Name>
+                </actors>
+                <actors>
+                    <Id>6285</Id>
+                    <Name>David Harbour</Name>
+                </actors>
+                <actors>
+                    <Id>6286</Id>
+                    <Name>Orlando Bloom</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6287</Id>
+                    <Name>Neill Blomkamp</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1379</id>
+            <Title>Mia i ja: Film - sink</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/20.6.2023_13_27_44_Mia_and_me.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Zavirite u čaroban svijet vilenjaka, jednoroga i zmajeva!
+
+Ono što počinje kao fantastična bajka, za Miju postaje stvarnost. Ona mora pronaći sn</Description>
+            <Duration>85</Duration>
+            <PhotoPath>src/main/resources/assets\20.6.2023_13_27_44_Mia_and_me.jpg</PhotoPath>
+            <Actors/>
+            <Directors>
+                <director>
+                    <Id>6288</Id>
+                    <Name>Adam Gunn</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1380</id>
+            <Title>Moje grčko vjenčanje 3</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/16.8.2023_12_31_10_MyBigFat3_BiH.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Svjetski fenomen MOJE GRČKO VJENČANJE, scenaristkinje i rediteljke Nie Vardalos, ponovo dolazi u kino dvorane, predstavljajući potpuno novu a</Description>
+            <Duration>92</Duration>
+            <PhotoPath>src/main/resources/assets\16.8.2023_12_31_10_MyBigFat3_BiH.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6289</Id>
+                    <Name>Nia Vardalos</Name>
+                </actors>
+                <actors>
+                    <Id>6290</Id>
+                    <Name>John Corbett</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6291</Id>
+                    <Name>Nia Vardalos</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1381</id>
+            <Title>Oppenheimer</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/9.5.2023_10_10_22_Oppenheimer_BiH.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Oppenheimer je biografski film o američkom fizičaru J. Robertu Oppenheimeru, koji je prozvan „ocem atomske bombe“. Oppenheimer je bio glavni</Description>
+            <Duration>180</Duration>
+            <PhotoPath>src/main/resources/assets\9.5.2023_10_10_22_Oppenheimer_BiH.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6292</Id>
+                    <Name>Cillian Murphy</Name>
+                </actors>
+                <actors>
+                    <Id>6293</Id>
+                    <Name>Emily Blunt</Name>
+                </actors>
+                <actors>
+                    <Id>6294</Id>
+                    <Name>Robert Downey</Name>
+                </actors>
+                <actors>
+                    <Id>6295</Id>
+                    <Name>Jr.</Name>
+                </actors>
+                <actors>
+                    <Id>6296</Id>
+                    <Name>Matt Damon</Name>
+                </actors>
+                <actors>
+                    <Id>6297</Id>
+                    <Name>Rami Malek</Name>
+                </actors>
+                <actors>
+                    <Id>6298</Id>
+                    <Name>Florence Pugh</Name>
+                </actors>
+                <actors>
+                    <Id>6299</Id>
+                    <Name>Benny Safdie</Name>
+                </actors>
+                <actors>
+                    <Id>6300</Id>
+                    <Name>Michael Angarano</Name>
+                </actors>
+                <actors>
+                    <Id>6301</Id>
+                    <Name>Josh Hartnett i Kenneth Branagh</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6302</Id>
+                    <Name>Christopher Nolan</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1382</id>
+            <Title>Pravednik 3: Konačno poglavlje</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/21.7.2023_16_22_51_EQUALIZER3_HR.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Nakon što se umirovio s pozicije vladinog hitmana, Robert McCall (Denzel Washington) pokušava pronaći utjehu u pronalasku pravde za sve potla</Description>
+            <Duration>109</Duration>
+            <PhotoPath>src/main/resources/assets\21.7.2023_16_22_51_EQUALIZER3_HR.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6303</Id>
+                    <Name>Denzel Washington</Name>
+                </actors>
+                <actors>
+                    <Id>6304</Id>
+                    <Name>Dakota Fanning</Name>
+                </actors>
+                <actors>
+                    <Id>6305</Id>
+                    <Name>David Denman</Name>
+                </actors>
+                <actors>
+                    <Id>6306</Id>
+                    <Name>Sonia Ammar</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6307</Id>
+                    <Name>Antoine Fuqua</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1383</id>
+            <Title>Zvuk slobode</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/16.8.2023_12_21_53_SOUNDFREEDOM_HR_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Sound of Freedom, film čija se radnja temelji na istinitoj priči užasne trgovine djecom, po gledanosti je potukao rekorde u američkim </Description>
+            <Duration>131</Duration>
+            <PhotoPath>src/main/resources/assets\16.8.2023_12_21_53_SOUNDFREEDOM_HR_novi.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6308</Id>
+                    <Name>Jim Caviezel</Name>
+                </actors>
+                <actors>
+                    <Id>6309</Id>
+                    <Name>Mira Sorvino</Name>
+                </actors>
+                <actors>
+                    <Id>6310</Id>
+                    <Name>Bill Camp</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6311</Id>
+                    <Name>Alejandro Monteverde</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1384</id>
+            <Title>Barbie</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/23.6.2023_14_46_05_Barbie.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;&lt;div style="text-align: justify;"&gt;Ružičasta avantura koja će oduševiti sve generacije. Ulogu ikonične lutke preuzima Margot Robbie, a njezinu bolju </Description>
+            <Duration>114</Duration>
+            <PhotoPath>src/main/resources/assets\23.6.2023_14_46_05_Barbie.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6312</Id>
+                    <Name>Margot Robbie</Name>
+                </actors>
+                <actors>
+                    <Id>6313</Id>
+                    <Name>Ryan Gosling</Name>
+                </actors>
+                <actors>
+                    <Id>6314</Id>
+                    <Name>Helen Mirren</Name>
+                </actors>
+                <actors>
+                    <Id>6315</Id>
+                    <Name>Will Ferrell</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6316</Id>
+                    <Name>Greta Gerwig</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1385</id>
+            <Title>Blue Beetle</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/15.6.2023_13_27_17_BlueBeetle_Montage_HR.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;&lt;div style="text-align: justify;"&gt;Blue Beetle je akcijska, moderna priča koja daje svjež, zabavan pogled na žanr superheroja u kombin</Description>
+            <Duration>128</Duration>
+            <PhotoPath>src/main/resources/assets\15.6.2023_13_27_17_BlueBeetle_Montage_HR.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6317</Id>
+                    <Name>Xolo Mariduena</Name>
+                </actors>
+                <actors>
+                    <Id>6318</Id>
+                    <Name>Susan Sarandon</Name>
+                </actors>
+                <actors>
+                    <Id>6319</Id>
+                    <Name>Bruna Marquezine</Name>
+                </actors>
+                <actors>
+                    <Id>6320</Id>
+                    <Name>Raoul Max Trujillo</Name>
+                </actors>
+                <actors>
+                    <Id>6321</Id>
+                    <Name>Harvey Guillén</Name>
+                </actors>
+                <actors>
+                    <Id>6322</Id>
+                    <Name>George Lopez</Name>
+                </actors>
+                <actors>
+                    <Id>6323</Id>
+                    <Name>Adriana Barraza</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6324</Id>
+                    <Name>Angel Manuel Soto</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1386</id>
+            <Title>Drakula: Buđenje zla</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/18.7.2023_12_05_02_Last_Voyage_Demeter_HR.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Zastrašujuća adaptacija jednog jezivog poglavlja popularnog horor romana Brama Stokera “Drakula”, u režiji Andréa Ovredala.
+
+Zastraš</Description>
+            <Duration>118</Duration>
+            <PhotoPath>src/main/resources/assets\18.7.2023_12_05_02_Last_Voyage_Demeter_HR.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6325</Id>
+                    <Name>Corey Hawkins</Name>
+                </actors>
+                <actors>
+                    <Id>6326</Id>
+                    <Name>Aisling Franciosi</Name>
+                </actors>
+                <actors>
+                    <Id>6327</Id>
+                    <Name>Liam Cunningham</Name>
+                </actors>
+                <actors>
+                    <Id>6328</Id>
+                    <Name>David Dastmalchian</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6329</Id>
+                    <Name>André Ovredal</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1387</id>
+            <Title>Gran Turismo</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/4.8.2023_15_58_28_Gran_TurismoHR_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Prema istinitoj priči Janna Mardenborougha, film je ultimativno ispunjenje snova mladog igrača Gran Turisma koji je svojim igračkim vješ</Description>
+            <Duration>135</Duration>
+            <PhotoPath>src/main/resources/assets\4.8.2023_15_58_28_Gran_TurismoHR_novi.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6330</Id>
+                    <Name>Archie Madekwe</Name>
+                </actors>
+                <actors>
+                    <Id>6331</Id>
+                    <Name>David Harbour</Name>
+                </actors>
+                <actors>
+                    <Id>6332</Id>
+                    <Name>Orlando Bloom</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6333</Id>
+                    <Name>Neill Blomkamp</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1388</id>
+            <Title>Mala sirena - sink</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/16.3.2023_13_28_15_Little_Mermaid_HR_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;&lt;div style="text-align: justify;"&gt;Dugoočekivani i Oscarom nagrađeni glazbeni klasik studija Disney ove godine dolazi u igranoj verzi</Description>
+            <Duration>135</Duration>
+            <PhotoPath>src/main/resources/assets\16.3.2023_13_28_15_Little_Mermaid_HR_novi.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6334</Id>
+                    <Name>Lana Meniga</Name>
+                </actors>
+                <actors>
+                    <Id>6335</Id>
+                    <Name>Mateja Majerle</Name>
+                </actors>
+                <actors>
+                    <Id>6336</Id>
+                    <Name>Dino Jelusić</Name>
+                </actors>
+                <actors>
+                    <Id>6337</Id>
+                    <Name>Martina Tomčić</Name>
+                </actors>
+                <actors>
+                    <Id>6338</Id>
+                    <Name>Frano Mašković</Name>
+                </actors>
+                <actors>
+                    <Id>6339</Id>
+                    <Name>Anja Šovagović Despot</Name>
+                </actors>
+                <actors>
+                    <Id>6340</Id>
+                    <Name>Goran Grgić</Name>
+                </actors>
+                <actors>
+                    <Id>6341</Id>
+                    <Name>Jan Kerekeš</Name>
+                </actors>
+                <actors>
+                    <Id>6342</Id>
+                    <Name>Ruben Carović</Name>
+                </actors>
+                <actors>
+                    <Id>6343</Id>
+                    <Name>Ana Maras Harmander</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6344</Id>
+                    <Name>Rob Marshall</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1389</id>
+            <Title>Mia i ja: Film - sink</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/20.6.2023_13_27_44_Mia_and_me.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Zavirite u čaroban svijet vilenjaka, jednoroga i zmajeva!
+
+Ono što počinje kao fantastična bajka, za Miju postaje stvarnost. Ona mora pronaći sn</Description>
+            <Duration>85</Duration>
+            <PhotoPath>src/main/resources/assets\20.6.2023_13_27_44_Mia_and_me.jpg</PhotoPath>
+            <Actors/>
+            <Directors>
+                <director>
+                    <Id>6345</Id>
+                    <Name>Adam Gunn</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1390</id>
+            <Title>Moje grčko vjenčanje 3</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/16.8.2023_12_31_10_MyBigFat3_BiH.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Svjetski fenomen MOJE GRČKO VJENČANJE, scenaristkinje i rediteljke Nie Vardalos, ponovo dolazi u kino dvorane, predstavljajući potpuno novu a</Description>
+            <Duration>92</Duration>
+            <PhotoPath>src/main/resources/assets\16.8.2023_12_31_10_MyBigFat3_BiH.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6346</Id>
+                    <Name>Nia Vardalos</Name>
+                </actors>
+                <actors>
+                    <Id>6347</Id>
+                    <Name>John Corbett</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6348</Id>
+                    <Name>Nia Vardalos</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1391</id>
+            <Title>Nikica: Kako je sve počelo - sink</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/29.6.2023_15_42_32_Nikica2_HR.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Film je nastao prema knjizi “Nikica”, francuskog autora Renea Goscinnyja, autora dobro poznatih priča o Asterixu i Lucky Lukeu. 
+
+Negdje između </Description>
+            <Duration>85</Duration>
+            <PhotoPath>src/main/resources/assets\29.6.2023_15_42_32_Nikica2_HR.jpg</PhotoPath>
+            <Actors/>
+            <Directors>
+                <director>
+                    <Id>6349</Id>
+                    <Name>Amandine Fredon</Name>
+                </director>
+                <director>
+                    <Id>6350</Id>
+                    <Name>Benjamin Massoubre</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1392</id>
+            <Title>Nindža kornjače: Haos - sink</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/26.7.2023_9_52_48_Ninja_Turtles_BiH.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Zasnovano na Nindža kornjače likovima koje su stvorili Peter Laird i Kevin Eastman.
+
+Nakon što su se godinama krili od ljudi, braća Kornja</Description>
+            <Duration>100</Duration>
+            <PhotoPath>src/main/resources/assets\26.7.2023_9_52_48_Ninja_Turtles_BiH.jpg</PhotoPath>
+            <Actors/>
+            <Directors>
+                <director>
+                    <Id>6351</Id>
+                    <Name>Jeff Rowe</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1393</id>
+            <Title>Oppenheimer</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/9.5.2023_10_10_22_Oppenheimer_BiH.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Oppenheimer je biografski film o američkom fizičaru J. Robertu Oppenheimeru, koji je prozvan „ocem atomske bombe“. Oppenheimer je bio glavni</Description>
+            <Duration>180</Duration>
+            <PhotoPath>src/main/resources/assets\9.5.2023_10_10_22_Oppenheimer_BiH.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6352</Id>
+                    <Name>Cillian Murphy</Name>
+                </actors>
+                <actors>
+                    <Id>6353</Id>
+                    <Name>Emily Blunt</Name>
+                </actors>
+                <actors>
+                    <Id>6354</Id>
+                    <Name>Robert Downey</Name>
+                </actors>
+                <actors>
+                    <Id>6355</Id>
+                    <Name>Jr.</Name>
+                </actors>
+                <actors>
+                    <Id>6356</Id>
+                    <Name>Matt Damon</Name>
+                </actors>
+                <actors>
+                    <Id>6357</Id>
+                    <Name>Rami Malek</Name>
+                </actors>
+                <actors>
+                    <Id>6358</Id>
+                    <Name>Florence Pugh</Name>
+                </actors>
+                <actors>
+                    <Id>6359</Id>
+                    <Name>Benny Safdie</Name>
+                </actors>
+                <actors>
+                    <Id>6360</Id>
+                    <Name>Michael Angarano</Name>
+                </actors>
+                <actors>
+                    <Id>6361</Id>
+                    <Name>Josh Hartnett i Kenneth Branagh</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6362</Id>
+                    <Name>Christopher Nolan</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1394</id>
+            <Title>Pravednik 3: Konačno poglavlje</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/21.7.2023_16_22_51_EQUALIZER3_HR.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Nakon što se umirovio s pozicije vladinog hitmana, Robert McCall (Denzel Washington) pokušava pronaći utjehu u pronalasku pravde za sve potla</Description>
+            <Duration>109</Duration>
+            <PhotoPath>src/main/resources/assets\21.7.2023_16_22_51_EQUALIZER3_HR.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6363</Id>
+                    <Name>Denzel Washington</Name>
+                </actors>
+                <actors>
+                    <Id>6364</Id>
+                    <Name>Dakota Fanning</Name>
+                </actors>
+                <actors>
+                    <Id>6365</Id>
+                    <Name>David Denman</Name>
+                </actors>
+                <actors>
+                    <Id>6366</Id>
+                    <Name>Sonia Ammar</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6367</Id>
+                    <Name>Antoine Fuqua</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1395</id>
+            <Title>Rubi tinejdžerka: Morsko čudovište - sink</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/14.6.2023_14_05_48_Ruby_BiH.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Ponekad se heroj, koji vam je suđeno da budete, nalazi odmah ispod površine.
+
+Ovog ljeta, Dream Works Animation zaronit će u uzburkane vode srednj</Description>
+            <Duration>91</Duration>
+            <PhotoPath>src/main/resources/assets\14.6.2023_14_05_48_Ruby_BiH.jpg</PhotoPath>
+            <Actors/>
+            <Directors>
+                <director>
+                    <Id>6368</Id>
+                    <Name>Kirk DeMicco</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1396</id>
+            <Title>Zvuk slobode</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/16.8.2023_12_21_53_SOUNDFREEDOM_HR_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Sound of Freedom, film čija se radnja temelji na istinitoj priči užasne trgovine djecom, po gledanosti je potukao rekorde u američkim </Description>
+            <Duration>131</Duration>
+            <PhotoPath>src/main/resources/assets\16.8.2023_12_21_53_SOUNDFREEDOM_HR_novi.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6369</Id>
+                    <Name>Jim Caviezel</Name>
+                </actors>
+                <actors>
+                    <Id>6370</Id>
+                    <Name>Mira Sorvino</Name>
+                </actors>
+                <actors>
+                    <Id>6371</Id>
+                    <Name>Bill Camp</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6372</Id>
+                    <Name>Alejandro Monteverde</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1397</id>
+            <Title>Barbie</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/23.6.2023_14_46_05_Barbie.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;&lt;div style="text-align: justify;"&gt;Ružičasta avantura koja će oduševiti sve generacije. Ulogu ikonične lutke preuzima Margot Robbie, a njezinu bolju </Description>
+            <Duration>114</Duration>
+            <PhotoPath>src/main/resources/assets\23.6.2023_14_46_05_Barbie.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6373</Id>
+                    <Name>Margot Robbie</Name>
+                </actors>
+                <actors>
+                    <Id>6374</Id>
+                    <Name>Ryan Gosling</Name>
+                </actors>
+                <actors>
+                    <Id>6375</Id>
+                    <Name>Helen Mirren</Name>
+                </actors>
+                <actors>
+                    <Id>6376</Id>
+                    <Name>Will Ferrell</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6377</Id>
+                    <Name>Greta Gerwig</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1398</id>
+            <Title>Blue Beetle</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/15.6.2023_13_27_17_BlueBeetle_Montage_HR.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;&lt;div style="text-align: justify;"&gt;Blue Beetle je akcijska, moderna priča koja daje svjež, zabavan pogled na žanr superheroja u kombin</Description>
+            <Duration>128</Duration>
+            <PhotoPath>src/main/resources/assets\15.6.2023_13_27_17_BlueBeetle_Montage_HR.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6378</Id>
+                    <Name>Xolo Mariduena</Name>
+                </actors>
+                <actors>
+                    <Id>6379</Id>
+                    <Name>Susan Sarandon</Name>
+                </actors>
+                <actors>
+                    <Id>6380</Id>
+                    <Name>Bruna Marquezine</Name>
+                </actors>
+                <actors>
+                    <Id>6381</Id>
+                    <Name>Raoul Max Trujillo</Name>
+                </actors>
+                <actors>
+                    <Id>6382</Id>
+                    <Name>Harvey Guillén</Name>
+                </actors>
+                <actors>
+                    <Id>6383</Id>
+                    <Name>George Lopez</Name>
+                </actors>
+                <actors>
+                    <Id>6384</Id>
+                    <Name>Adriana Barraza</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6385</Id>
+                    <Name>Angel Manuel Soto</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1399</id>
+            <Title>Drakula: Buđenje zla</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/18.7.2023_12_05_02_Last_Voyage_Demeter_HR.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Zastrašujuća adaptacija jednog jezivog poglavlja popularnog horor romana Brama Stokera “Drakula”, u režiji Andréa Ovredala.
+
+Zastraš</Description>
+            <Duration>118</Duration>
+            <PhotoPath>src/main/resources/assets\18.7.2023_12_05_02_Last_Voyage_Demeter_HR.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6386</Id>
+                    <Name>Corey Hawkins</Name>
+                </actors>
+                <actors>
+                    <Id>6387</Id>
+                    <Name>Aisling Franciosi</Name>
+                </actors>
+                <actors>
+                    <Id>6388</Id>
+                    <Name>Liam Cunningham</Name>
+                </actors>
+                <actors>
+                    <Id>6389</Id>
+                    <Name>David Dastmalchian</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6390</Id>
+                    <Name>André Ovredal</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1400</id>
+            <Title>Gran Turismo</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/4.8.2023_15_58_28_Gran_TurismoHR_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Prema istinitoj priči Janna Mardenborougha, film je ultimativno ispunjenje snova mladog igrača Gran Turisma koji je svojim igračkim vješ</Description>
+            <Duration>135</Duration>
+            <PhotoPath>src/main/resources/assets\4.8.2023_15_58_28_Gran_TurismoHR_novi.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6391</Id>
+                    <Name>Archie Madekwe</Name>
+                </actors>
+                <actors>
+                    <Id>6392</Id>
+                    <Name>David Harbour</Name>
+                </actors>
+                <actors>
+                    <Id>6393</Id>
+                    <Name>Orlando Bloom</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6394</Id>
+                    <Name>Neill Blomkamp</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1401</id>
+            <Title>Mala sirena - sink</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/16.3.2023_13_28_15_Little_Mermaid_HR_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;&lt;div style="text-align: justify;"&gt;Dugoočekivani i Oscarom nagrađeni glazbeni klasik studija Disney ove godine dolazi u igranoj verzi</Description>
+            <Duration>135</Duration>
+            <PhotoPath>src/main/resources/assets\16.3.2023_13_28_15_Little_Mermaid_HR_novi.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6395</Id>
+                    <Name>Lana Meniga</Name>
+                </actors>
+                <actors>
+                    <Id>6396</Id>
+                    <Name>Mateja Majerle</Name>
+                </actors>
+                <actors>
+                    <Id>6397</Id>
+                    <Name>Dino Jelusić</Name>
+                </actors>
+                <actors>
+                    <Id>6398</Id>
+                    <Name>Martina Tomčić</Name>
+                </actors>
+                <actors>
+                    <Id>6399</Id>
+                    <Name>Frano Mašković</Name>
+                </actors>
+                <actors>
+                    <Id>6400</Id>
+                    <Name>Anja Šovagović Despot</Name>
+                </actors>
+                <actors>
+                    <Id>6401</Id>
+                    <Name>Goran Grgić</Name>
+                </actors>
+                <actors>
+                    <Id>6402</Id>
+                    <Name>Jan Kerekeš</Name>
+                </actors>
+                <actors>
+                    <Id>6403</Id>
+                    <Name>Ruben Carović</Name>
+                </actors>
+                <actors>
+                    <Id>6404</Id>
+                    <Name>Ana Maras Harmander</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6405</Id>
+                    <Name>Rob Marshall</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1402</id>
+            <Title>Mia i ja: Film - sink</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/20.6.2023_13_27_44_Mia_and_me.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Zavirite u čaroban svijet vilenjaka, jednoroga i zmajeva!
+
+Ono što počinje kao fantastična bajka, za Miju postaje stvarnost. Ona mora pronaći sn</Description>
+            <Duration>85</Duration>
+            <PhotoPath>src/main/resources/assets\20.6.2023_13_27_44_Mia_and_me.jpg</PhotoPath>
+            <Actors/>
+            <Directors>
+                <director>
+                    <Id>6406</Id>
+                    <Name>Adam Gunn</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1403</id>
+            <Title>Moje grčko vjenčanje 3</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/16.8.2023_12_31_10_MyBigFat3_BiH.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Svjetski fenomen MOJE GRČKO VJENČANJE, scenaristkinje i rediteljke Nie Vardalos, ponovo dolazi u kino dvorane, predstavljajući potpuno novu a</Description>
+            <Duration>92</Duration>
+            <PhotoPath>src/main/resources/assets\16.8.2023_12_31_10_MyBigFat3_BiH.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6407</Id>
+                    <Name>Nia Vardalos</Name>
+                </actors>
+                <actors>
+                    <Id>6408</Id>
+                    <Name>John Corbett</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6409</Id>
+                    <Name>Nia Vardalos</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1404</id>
+            <Title>Nikica: Kako je sve počelo - sink</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/29.6.2023_15_42_32_Nikica2_HR.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Film je nastao prema knjizi “Nikica”, francuskog autora Renea Goscinnyja, autora dobro poznatih priča o Asterixu i Lucky Lukeu. 
+
+Negdje između </Description>
+            <Duration>85</Duration>
+            <PhotoPath>src/main/resources/assets\29.6.2023_15_42_32_Nikica2_HR.jpg</PhotoPath>
+            <Actors/>
+            <Directors>
+                <director>
+                    <Id>6410</Id>
+                    <Name>Amandine Fredon</Name>
+                </director>
+                <director>
+                    <Id>6411</Id>
+                    <Name>Benjamin Massoubre</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1405</id>
+            <Title>Nindža kornjače: Haos - sink</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/26.7.2023_9_52_48_Ninja_Turtles_BiH.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Zasnovano na Nindža kornjače likovima koje su stvorili Peter Laird i Kevin Eastman.
+
+Nakon što su se godinama krili od ljudi, braća Kornja</Description>
+            <Duration>100</Duration>
+            <PhotoPath>src/main/resources/assets\26.7.2023_9_52_48_Ninja_Turtles_BiH.jpg</PhotoPath>
+            <Actors/>
+            <Directors>
+                <director>
+                    <Id>6412</Id>
+                    <Name>Jeff Rowe</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1406</id>
+            <Title>Oppenheimer</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/9.5.2023_10_10_22_Oppenheimer_BiH.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Oppenheimer je biografski film o američkom fizičaru J. Robertu Oppenheimeru, koji je prozvan „ocem atomske bombe“. Oppenheimer je bio glavni</Description>
+            <Duration>180</Duration>
+            <PhotoPath>src/main/resources/assets\9.5.2023_10_10_22_Oppenheimer_BiH.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6413</Id>
+                    <Name>Cillian Murphy</Name>
+                </actors>
+                <actors>
+                    <Id>6414</Id>
+                    <Name>Emily Blunt</Name>
+                </actors>
+                <actors>
+                    <Id>6415</Id>
+                    <Name>Robert Downey</Name>
+                </actors>
+                <actors>
+                    <Id>6416</Id>
+                    <Name>Jr.</Name>
+                </actors>
+                <actors>
+                    <Id>6417</Id>
+                    <Name>Matt Damon</Name>
+                </actors>
+                <actors>
+                    <Id>6418</Id>
+                    <Name>Rami Malek</Name>
+                </actors>
+                <actors>
+                    <Id>6419</Id>
+                    <Name>Florence Pugh</Name>
+                </actors>
+                <actors>
+                    <Id>6420</Id>
+                    <Name>Benny Safdie</Name>
+                </actors>
+                <actors>
+                    <Id>6421</Id>
+                    <Name>Michael Angarano</Name>
+                </actors>
+                <actors>
+                    <Id>6422</Id>
+                    <Name>Josh Hartnett i Kenneth Branagh</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6423</Id>
+                    <Name>Christopher Nolan</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1407</id>
+            <Title>Pravednik 3: Konačno poglavlje</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/21.7.2023_16_22_51_EQUALIZER3_HR.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Nakon što se umirovio s pozicije vladinog hitmana, Robert McCall (Denzel Washington) pokušava pronaći utjehu u pronalasku pravde za sve potla</Description>
+            <Duration>109</Duration>
+            <PhotoPath>src/main/resources/assets\21.7.2023_16_22_51_EQUALIZER3_HR.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6424</Id>
+                    <Name>Denzel Washington</Name>
+                </actors>
+                <actors>
+                    <Id>6425</Id>
+                    <Name>Dakota Fanning</Name>
+                </actors>
+                <actors>
+                    <Id>6426</Id>
+                    <Name>David Denman</Name>
+                </actors>
+                <actors>
+                    <Id>6427</Id>
+                    <Name>Sonia Ammar</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6428</Id>
+                    <Name>Antoine Fuqua</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1408</id>
+            <Title>Rubi tinejdžerka: Morsko čudovište - sink</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/14.6.2023_14_05_48_Ruby_BiH.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Ponekad se heroj, koji vam je suđeno da budete, nalazi odmah ispod površine.
+
+Ovog ljeta, Dream Works Animation zaronit će u uzburkane vode srednj</Description>
+            <Duration>91</Duration>
+            <PhotoPath>src/main/resources/assets\14.6.2023_14_05_48_Ruby_BiH.jpg</PhotoPath>
+            <Actors/>
+            <Directors>
+                <director>
+                    <Id>6429</Id>
+                    <Name>Kirk DeMicco</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1409</id>
+            <Title>Zvuk slobode</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/16.8.2023_12_21_53_SOUNDFREEDOM_HR_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Sound of Freedom, film čija se radnja temelji na istinitoj priči užasne trgovine djecom, po gledanosti je potukao rekorde u američkim </Description>
+            <Duration>131</Duration>
+            <PhotoPath>src/main/resources/assets\16.8.2023_12_21_53_SOUNDFREEDOM_HR_novi.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6430</Id>
+                    <Name>Jim Caviezel</Name>
+                </actors>
+                <actors>
+                    <Id>6431</Id>
+                    <Name>Mira Sorvino</Name>
+                </actors>
+                <actors>
+                    <Id>6432</Id>
+                    <Name>Bill Camp</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6433</Id>
+                    <Name>Alejandro Monteverde</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1410</id>
+            <Title>Barbie</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/23.6.2023_14_46_05_Barbie.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;&lt;div style="text-align: justify;"&gt;Ružičasta avantura koja će oduševiti sve generacije. Ulogu ikonične lutke preuzima Margot Robbie, a njezinu bolju </Description>
+            <Duration>114</Duration>
+            <PhotoPath>src/main/resources/assets\23.6.2023_14_46_05_Barbie.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6434</Id>
+                    <Name>Margot Robbie</Name>
+                </actors>
+                <actors>
+                    <Id>6435</Id>
+                    <Name>Ryan Gosling</Name>
+                </actors>
+                <actors>
+                    <Id>6436</Id>
+                    <Name>Helen Mirren</Name>
+                </actors>
+                <actors>
+                    <Id>6437</Id>
+                    <Name>Will Ferrell</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6438</Id>
+                    <Name>Greta Gerwig</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1411</id>
+            <Title>Blue Beetle</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/15.6.2023_13_27_17_BlueBeetle_Montage_HR.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;&lt;div style="text-align: justify;"&gt;Blue Beetle je akcijska, moderna priča koja daje svjež, zabavan pogled na žanr superheroja u kombin</Description>
+            <Duration>128</Duration>
+            <PhotoPath>src/main/resources/assets\15.6.2023_13_27_17_BlueBeetle_Montage_HR.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6439</Id>
+                    <Name>Xolo Mariduena</Name>
+                </actors>
+                <actors>
+                    <Id>6440</Id>
+                    <Name>Susan Sarandon</Name>
+                </actors>
+                <actors>
+                    <Id>6441</Id>
+                    <Name>Bruna Marquezine</Name>
+                </actors>
+                <actors>
+                    <Id>6442</Id>
+                    <Name>Raoul Max Trujillo</Name>
+                </actors>
+                <actors>
+                    <Id>6443</Id>
+                    <Name>Harvey Guillén</Name>
+                </actors>
+                <actors>
+                    <Id>6444</Id>
+                    <Name>George Lopez</Name>
+                </actors>
+                <actors>
+                    <Id>6445</Id>
+                    <Name>Adriana Barraza</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6446</Id>
+                    <Name>Angel Manuel Soto</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1412</id>
+            <Title>Drakula: Buđenje zla</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/18.7.2023_12_05_02_Last_Voyage_Demeter_HR.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Zastrašujuća adaptacija jednog jezivog poglavlja popularnog horor romana Brama Stokera “Drakula”, u režiji Andréa Ovredala.
+
+Zastraš</Description>
+            <Duration>118</Duration>
+            <PhotoPath>src/main/resources/assets\18.7.2023_12_05_02_Last_Voyage_Demeter_HR.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6447</Id>
+                    <Name>Corey Hawkins</Name>
+                </actors>
+                <actors>
+                    <Id>6448</Id>
+                    <Name>Aisling Franciosi</Name>
+                </actors>
+                <actors>
+                    <Id>6449</Id>
+                    <Name>Liam Cunningham</Name>
+                </actors>
+                <actors>
+                    <Id>6450</Id>
+                    <Name>David Dastmalchian</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6451</Id>
+                    <Name>André Ovredal</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1413</id>
+            <Title>Gran Turismo</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/4.8.2023_15_58_28_Gran_TurismoHR_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Prema istinitoj priči Janna Mardenborougha, film je ultimativno ispunjenje snova mladog igrača Gran Turisma koji je svojim igračkim vješ</Description>
+            <Duration>135</Duration>
+            <PhotoPath>src/main/resources/assets\4.8.2023_15_58_28_Gran_TurismoHR_novi.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6452</Id>
+                    <Name>Archie Madekwe</Name>
+                </actors>
+                <actors>
+                    <Id>6453</Id>
+                    <Name>David Harbour</Name>
+                </actors>
+                <actors>
+                    <Id>6454</Id>
+                    <Name>Orlando Bloom</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6455</Id>
+                    <Name>Neill Blomkamp</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1414</id>
+            <Title>Mia i ja: Film - sink</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/20.6.2023_13_27_44_Mia_and_me.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Zavirite u čaroban svijet vilenjaka, jednoroga i zmajeva!
+
+Ono što počinje kao fantastična bajka, za Miju postaje stvarnost. Ona mora pronaći sn</Description>
+            <Duration>85</Duration>
+            <PhotoPath>src/main/resources/assets\20.6.2023_13_27_44_Mia_and_me.jpg</PhotoPath>
+            <Actors/>
+            <Directors>
+                <director>
+                    <Id>6456</Id>
+                    <Name>Adam Gunn</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1415</id>
+            <Title>Moje grčko vjenčanje 3</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/16.8.2023_12_31_10_MyBigFat3_BiH.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Svjetski fenomen MOJE GRČKO VJENČANJE, scenaristkinje i rediteljke Nie Vardalos, ponovo dolazi u kino dvorane, predstavljajući potpuno novu a</Description>
+            <Duration>92</Duration>
+            <PhotoPath>src/main/resources/assets\16.8.2023_12_31_10_MyBigFat3_BiH.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6457</Id>
+                    <Name>Nia Vardalos</Name>
+                </actors>
+                <actors>
+                    <Id>6458</Id>
+                    <Name>John Corbett</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6459</Id>
+                    <Name>Nia Vardalos</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1416</id>
+            <Title>Oppenheimer</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/9.5.2023_10_10_22_Oppenheimer_BiH.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Oppenheimer je biografski film o američkom fizičaru J. Robertu Oppenheimeru, koji je prozvan „ocem atomske bombe“. Oppenheimer je bio glavni</Description>
+            <Duration>180</Duration>
+            <PhotoPath>src/main/resources/assets\9.5.2023_10_10_22_Oppenheimer_BiH.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6460</Id>
+                    <Name>Cillian Murphy</Name>
+                </actors>
+                <actors>
+                    <Id>6461</Id>
+                    <Name>Emily Blunt</Name>
+                </actors>
+                <actors>
+                    <Id>6462</Id>
+                    <Name>Robert Downey</Name>
+                </actors>
+                <actors>
+                    <Id>6463</Id>
+                    <Name>Jr.</Name>
+                </actors>
+                <actors>
+                    <Id>6464</Id>
+                    <Name>Matt Damon</Name>
+                </actors>
+                <actors>
+                    <Id>6465</Id>
+                    <Name>Rami Malek</Name>
+                </actors>
+                <actors>
+                    <Id>6466</Id>
+                    <Name>Florence Pugh</Name>
+                </actors>
+                <actors>
+                    <Id>6467</Id>
+                    <Name>Benny Safdie</Name>
+                </actors>
+                <actors>
+                    <Id>6468</Id>
+                    <Name>Michael Angarano</Name>
+                </actors>
+                <actors>
+                    <Id>6469</Id>
+                    <Name>Josh Hartnett i Kenneth Branagh</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6470</Id>
+                    <Name>Christopher Nolan</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1417</id>
+            <Title>Pravednik 3: Konačno poglavlje</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/21.7.2023_16_22_51_EQUALIZER3_HR.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Nakon što se umirovio s pozicije vladinog hitmana, Robert McCall (Denzel Washington) pokušava pronaći utjehu u pronalasku pravde za sve potla</Description>
+            <Duration>109</Duration>
+            <PhotoPath>src/main/resources/assets\21.7.2023_16_22_51_EQUALIZER3_HR.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6471</Id>
+                    <Name>Denzel Washington</Name>
+                </actors>
+                <actors>
+                    <Id>6472</Id>
+                    <Name>Dakota Fanning</Name>
+                </actors>
+                <actors>
+                    <Id>6473</Id>
+                    <Name>David Denman</Name>
+                </actors>
+                <actors>
+                    <Id>6474</Id>
+                    <Name>Sonia Ammar</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6475</Id>
+                    <Name>Antoine Fuqua</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1418</id>
+            <Title>Zvuk slobode</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/16.8.2023_12_21_53_SOUNDFREEDOM_HR_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Sound of Freedom, film čija se radnja temelji na istinitoj priči užasne trgovine djecom, po gledanosti je potukao rekorde u američkim </Description>
+            <Duration>131</Duration>
+            <PhotoPath>src/main/resources/assets\16.8.2023_12_21_53_SOUNDFREEDOM_HR_novi.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6476</Id>
+                    <Name>Jim Caviezel</Name>
+                </actors>
+                <actors>
+                    <Id>6477</Id>
+                    <Name>Mira Sorvino</Name>
+                </actors>
+                <actors>
+                    <Id>6478</Id>
+                    <Name>Bill Camp</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6479</Id>
+                    <Name>Alejandro Monteverde</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1419</id>
+            <Title>Barbie</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/23.6.2023_14_46_05_Barbie.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;&lt;div style="text-align: justify;"&gt;Ružičasta avantura koja će oduševiti sve generacije. Ulogu ikonične lutke preuzima Margot Robbie, a njezinu bolju </Description>
+            <Duration>114</Duration>
+            <PhotoPath>src/main/resources/assets\23.6.2023_14_46_05_Barbie.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6480</Id>
+                    <Name>Margot Robbie</Name>
+                </actors>
+                <actors>
+                    <Id>6481</Id>
+                    <Name>Ryan Gosling</Name>
+                </actors>
+                <actors>
+                    <Id>6482</Id>
+                    <Name>Helen Mirren</Name>
+                </actors>
+                <actors>
+                    <Id>6483</Id>
+                    <Name>Will Ferrell</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6484</Id>
+                    <Name>Greta Gerwig</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1420</id>
+            <Title>Blue Beetle</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/15.6.2023_13_27_17_BlueBeetle_Montage_HR.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;&lt;div style="text-align: justify;"&gt;Blue Beetle je akcijska, moderna priča koja daje svjež, zabavan pogled na žanr superheroja u kombin</Description>
+            <Duration>128</Duration>
+            <PhotoPath>src/main/resources/assets\15.6.2023_13_27_17_BlueBeetle_Montage_HR.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6485</Id>
+                    <Name>Xolo Mariduena</Name>
+                </actors>
+                <actors>
+                    <Id>6486</Id>
+                    <Name>Susan Sarandon</Name>
+                </actors>
+                <actors>
+                    <Id>6487</Id>
+                    <Name>Bruna Marquezine</Name>
+                </actors>
+                <actors>
+                    <Id>6488</Id>
+                    <Name>Raoul Max Trujillo</Name>
+                </actors>
+                <actors>
+                    <Id>6489</Id>
+                    <Name>Harvey Guillén</Name>
+                </actors>
+                <actors>
+                    <Id>6490</Id>
+                    <Name>George Lopez</Name>
+                </actors>
+                <actors>
+                    <Id>6491</Id>
+                    <Name>Adriana Barraza</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6492</Id>
+                    <Name>Angel Manuel Soto</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1421</id>
+            <Title>Drakula: Buđenje zla</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/18.7.2023_12_05_02_Last_Voyage_Demeter_HR.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Zastrašujuća adaptacija jednog jezivog poglavlja popularnog horor romana Brama Stokera “Drakula”, u režiji Andréa Ovredala.
+
+Zastraš</Description>
+            <Duration>118</Duration>
+            <PhotoPath>src/main/resources/assets\18.7.2023_12_05_02_Last_Voyage_Demeter_HR.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6493</Id>
+                    <Name>Corey Hawkins</Name>
+                </actors>
+                <actors>
+                    <Id>6494</Id>
+                    <Name>Aisling Franciosi</Name>
+                </actors>
+                <actors>
+                    <Id>6495</Id>
+                    <Name>Liam Cunningham</Name>
+                </actors>
+                <actors>
+                    <Id>6496</Id>
+                    <Name>David Dastmalchian</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6497</Id>
+                    <Name>André Ovredal</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1422</id>
+            <Title>Gran Turismo</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/4.8.2023_15_58_28_Gran_TurismoHR_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Prema istinitoj priči Janna Mardenborougha, film je ultimativno ispunjenje snova mladog igrača Gran Turisma koji je svojim igračkim vješ</Description>
+            <Duration>135</Duration>
+            <PhotoPath>src/main/resources/assets\4.8.2023_15_58_28_Gran_TurismoHR_novi.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6498</Id>
+                    <Name>Archie Madekwe</Name>
+                </actors>
+                <actors>
+                    <Id>6499</Id>
+                    <Name>David Harbour</Name>
+                </actors>
+                <actors>
+                    <Id>6500</Id>
+                    <Name>Orlando Bloom</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6501</Id>
+                    <Name>Neill Blomkamp</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1423</id>
+            <Title>Mia i ja: Film - sink</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/20.6.2023_13_27_44_Mia_and_me.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Zavirite u čaroban svijet vilenjaka, jednoroga i zmajeva!
+
+Ono što počinje kao fantastična bajka, za Miju postaje stvarnost. Ona mora pronaći sn</Description>
+            <Duration>85</Duration>
+            <PhotoPath>src/main/resources/assets\20.6.2023_13_27_44_Mia_and_me.jpg</PhotoPath>
+            <Actors/>
+            <Directors>
+                <director>
+                    <Id>6502</Id>
+                    <Name>Adam Gunn</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1424</id>
+            <Title>Moje grčko vjenčanje 3</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/16.8.2023_12_31_10_MyBigFat3_BiH.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Svjetski fenomen MOJE GRČKO VJENČANJE, scenaristkinje i rediteljke Nie Vardalos, ponovo dolazi u kino dvorane, predstavljajući potpuno novu a</Description>
+            <Duration>92</Duration>
+            <PhotoPath>src/main/resources/assets\16.8.2023_12_31_10_MyBigFat3_BiH.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6503</Id>
+                    <Name>Nia Vardalos</Name>
+                </actors>
+                <actors>
+                    <Id>6504</Id>
+                    <Name>John Corbett</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6505</Id>
+                    <Name>Nia Vardalos</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1425</id>
+            <Title>Oppenheimer</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/9.5.2023_10_10_22_Oppenheimer_BiH.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Oppenheimer je biografski film o američkom fizičaru J. Robertu Oppenheimeru, koji je prozvan „ocem atomske bombe“. Oppenheimer je bio glavni</Description>
+            <Duration>180</Duration>
+            <PhotoPath>src/main/resources/assets\9.5.2023_10_10_22_Oppenheimer_BiH.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6506</Id>
+                    <Name>Cillian Murphy</Name>
+                </actors>
+                <actors>
+                    <Id>6507</Id>
+                    <Name>Emily Blunt</Name>
+                </actors>
+                <actors>
+                    <Id>6508</Id>
+                    <Name>Robert Downey</Name>
+                </actors>
+                <actors>
+                    <Id>6509</Id>
+                    <Name>Jr.</Name>
+                </actors>
+                <actors>
+                    <Id>6510</Id>
+                    <Name>Matt Damon</Name>
+                </actors>
+                <actors>
+                    <Id>6511</Id>
+                    <Name>Rami Malek</Name>
+                </actors>
+                <actors>
+                    <Id>6512</Id>
+                    <Name>Florence Pugh</Name>
+                </actors>
+                <actors>
+                    <Id>6513</Id>
+                    <Name>Benny Safdie</Name>
+                </actors>
+                <actors>
+                    <Id>6514</Id>
+                    <Name>Michael Angarano</Name>
+                </actors>
+                <actors>
+                    <Id>6515</Id>
+                    <Name>Josh Hartnett i Kenneth Branagh</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6516</Id>
+                    <Name>Christopher Nolan</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1426</id>
+            <Title>Pravednik 3: Konačno poglavlje</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/21.7.2023_16_22_51_EQUALIZER3_HR.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Nakon što se umirovio s pozicije vladinog hitmana, Robert McCall (Denzel Washington) pokušava pronaći utjehu u pronalasku pravde za sve potla</Description>
+            <Duration>109</Duration>
+            <PhotoPath>src/main/resources/assets\21.7.2023_16_22_51_EQUALIZER3_HR.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6517</Id>
+                    <Name>Denzel Washington</Name>
+                </actors>
+                <actors>
+                    <Id>6518</Id>
+                    <Name>Dakota Fanning</Name>
+                </actors>
+                <actors>
+                    <Id>6519</Id>
+                    <Name>David Denman</Name>
+                </actors>
+                <actors>
+                    <Id>6520</Id>
+                    <Name>Sonia Ammar</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6521</Id>
+                    <Name>Antoine Fuqua</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1427</id>
+            <Title>Zvuk slobode</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/16.8.2023_12_21_53_SOUNDFREEDOM_HR_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Sound of Freedom, film čija se radnja temelji na istinitoj priči užasne trgovine djecom, po gledanosti je potukao rekorde u američkim </Description>
+            <Duration>131</Duration>
+            <PhotoPath>src/main/resources/assets\16.8.2023_12_21_53_SOUNDFREEDOM_HR_novi.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6522</Id>
+                    <Name>Jim Caviezel</Name>
+                </actors>
+                <actors>
+                    <Id>6523</Id>
+                    <Name>Mira Sorvino</Name>
+                </actors>
+                <actors>
+                    <Id>6524</Id>
+                    <Name>Bill Camp</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6525</Id>
+                    <Name>Alejandro Monteverde</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1428</id>
+            <Title>Barbie</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/23.6.2023_14_46_05_Barbie.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;&lt;div style="text-align: justify;"&gt;Ružičasta avantura koja će oduševiti sve generacije. Ulogu ikonične lutke preuzima Margot Robbie, a njezinu bolju </Description>
+            <Duration>114</Duration>
+            <PhotoPath>src/main/resources/assets\23.6.2023_14_46_05_Barbie.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6526</Id>
+                    <Name>Margot Robbie</Name>
+                </actors>
+                <actors>
+                    <Id>6527</Id>
+                    <Name>Ryan Gosling</Name>
+                </actors>
+                <actors>
+                    <Id>6528</Id>
+                    <Name>Helen Mirren</Name>
+                </actors>
+                <actors>
+                    <Id>6529</Id>
+                    <Name>Will Ferrell</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6530</Id>
+                    <Name>Greta Gerwig</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1429</id>
+            <Title>Blue Beetle</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/15.6.2023_13_27_17_BlueBeetle_Montage_HR.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;&lt;div style="text-align: justify;"&gt;Blue Beetle je akcijska, moderna priča koja daje svjež, zabavan pogled na žanr superheroja u kombin</Description>
+            <Duration>128</Duration>
+            <PhotoPath>src/main/resources/assets\15.6.2023_13_27_17_BlueBeetle_Montage_HR.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6531</Id>
+                    <Name>Xolo Mariduena</Name>
+                </actors>
+                <actors>
+                    <Id>6532</Id>
+                    <Name>Susan Sarandon</Name>
+                </actors>
+                <actors>
+                    <Id>6533</Id>
+                    <Name>Bruna Marquezine</Name>
+                </actors>
+                <actors>
+                    <Id>6534</Id>
+                    <Name>Raoul Max Trujillo</Name>
+                </actors>
+                <actors>
+                    <Id>6535</Id>
+                    <Name>Harvey Guillén</Name>
+                </actors>
+                <actors>
+                    <Id>6536</Id>
+                    <Name>George Lopez</Name>
+                </actors>
+                <actors>
+                    <Id>6537</Id>
+                    <Name>Adriana Barraza</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6538</Id>
+                    <Name>Angel Manuel Soto</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1430</id>
+            <Title>Drakula: Buđenje zla</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/18.7.2023_12_05_02_Last_Voyage_Demeter_HR.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Zastrašujuća adaptacija jednog jezivog poglavlja popularnog horor romana Brama Stokera “Drakula”, u režiji Andréa Ovredala.
+
+Zastraš</Description>
+            <Duration>118</Duration>
+            <PhotoPath>src/main/resources/assets\18.7.2023_12_05_02_Last_Voyage_Demeter_HR.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6539</Id>
+                    <Name>Corey Hawkins</Name>
+                </actors>
+                <actors>
+                    <Id>6540</Id>
+                    <Name>Aisling Franciosi</Name>
+                </actors>
+                <actors>
+                    <Id>6541</Id>
+                    <Name>Liam Cunningham</Name>
+                </actors>
+                <actors>
+                    <Id>6542</Id>
+                    <Name>David Dastmalchian</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6543</Id>
+                    <Name>André Ovredal</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1431</id>
+            <Title>Gran Turismo</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/4.8.2023_15_58_28_Gran_TurismoHR_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Prema istinitoj priči Janna Mardenborougha, film je ultimativno ispunjenje snova mladog igrača Gran Turisma koji je svojim igračkim vješ</Description>
+            <Duration>135</Duration>
+            <PhotoPath>src/main/resources/assets\4.8.2023_15_58_28_Gran_TurismoHR_novi.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6544</Id>
+                    <Name>Archie Madekwe</Name>
+                </actors>
+                <actors>
+                    <Id>6545</Id>
+                    <Name>David Harbour</Name>
+                </actors>
+                <actors>
+                    <Id>6546</Id>
+                    <Name>Orlando Bloom</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6547</Id>
+                    <Name>Neill Blomkamp</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1432</id>
+            <Title>Mia i ja: Film - sink</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/20.6.2023_13_27_44_Mia_and_me.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Zavirite u čaroban svijet vilenjaka, jednoroga i zmajeva!
+
+Ono što počinje kao fantastična bajka, za Miju postaje stvarnost. Ona mora pronaći sn</Description>
+            <Duration>85</Duration>
+            <PhotoPath>src/main/resources/assets\20.6.2023_13_27_44_Mia_and_me.jpg</PhotoPath>
+            <Actors/>
+            <Directors>
+                <director>
+                    <Id>6548</Id>
+                    <Name>Adam Gunn</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1433</id>
+            <Title>Moje grčko vjenčanje 3</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/16.8.2023_12_31_10_MyBigFat3_BiH.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Svjetski fenomen MOJE GRČKO VJENČANJE, scenaristkinje i rediteljke Nie Vardalos, ponovo dolazi u kino dvorane, predstavljajući potpuno novu a</Description>
+            <Duration>92</Duration>
+            <PhotoPath>src/main/resources/assets\16.8.2023_12_31_10_MyBigFat3_BiH.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6549</Id>
+                    <Name>Nia Vardalos</Name>
+                </actors>
+                <actors>
+                    <Id>6550</Id>
+                    <Name>John Corbett</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6551</Id>
+                    <Name>Nia Vardalos</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1434</id>
+            <Title>Poslije svega: Finale</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/17.8.2023_12_00_09_AFTER_5_EMBRACE_HR.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Veliko finale ljubavnog serijala koji je očarao milijune! Njihova veza zauvijek ih je promijenila. Je li i ljubav nestala? 
+
+Peti i posl</Description>
+            <Duration>94</Duration>
+            <PhotoPath>src/main/resources/assets\17.8.2023_12_00_09_AFTER_5_EMBRACE_HR.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6552</Id>
+                    <Name>Hero Fiennes Tiffin</Name>
+                </actors>
+                <actors>
+                    <Id>6553</Id>
+                    <Name>Josephine Langford</Name>
+                </actors>
+                <actors>
+                    <Id>6554</Id>
+                    <Name>Mimi Keene</Name>
+                </actors>
+                <actors>
+                    <Id>6555</Id>
+                    <Name>Stephen Moyer</Name>
+                </actors>
+                <actors>
+                    <Id>6556</Id>
+                    <Name>Louise Lombard</Name>
+                </actors>
+                <actors>
+                    <Id>6557</Id>
+                    <Name>Benjamin Mascolo</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6558</Id>
+                    <Name>Castille Landon</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1435</id>
+            <Title>Pravednik 3: Konačno poglavlje</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/21.7.2023_16_22_51_EQUALIZER3_HR.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Nakon što se umirovio s pozicije vladinog hitmana, Robert McCall (Denzel Washington) pokušava pronaći utjehu u pronalasku pravde za sve potla</Description>
+            <Duration>109</Duration>
+            <PhotoPath>src/main/resources/assets\21.7.2023_16_22_51_EQUALIZER3_HR.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6559</Id>
+                    <Name>Denzel Washington</Name>
+                </actors>
+                <actors>
+                    <Id>6560</Id>
+                    <Name>Dakota Fanning</Name>
+                </actors>
+                <actors>
+                    <Id>6561</Id>
+                    <Name>David Denman</Name>
+                </actors>
+                <actors>
+                    <Id>6562</Id>
+                    <Name>Sonia Ammar</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6563</Id>
+                    <Name>Antoine Fuqua</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1436</id>
+            <Title>Zvuk slobode</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/16.8.2023_12_21_53_SOUNDFREEDOM_HR_novi.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Sound of Freedom, film čija se radnja temelji na istinitoj priči užasne trgovine djecom, po gledanosti je potukao rekorde u američkim </Description>
+            <Duration>131</Duration>
+            <PhotoPath>src/main/resources/assets\16.8.2023_12_21_53_SOUNDFREEDOM_HR_novi.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6564</Id>
+                    <Name>Jim Caviezel</Name>
+                </actors>
+                <actors>
+                    <Id>6565</Id>
+                    <Name>Mira Sorvino</Name>
+                </actors>
+                <actors>
+                    <Id>6566</Id>
+                    <Name>Bill Camp</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6567</Id>
+                    <Name>Alejandro Monteverde</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1437</id>
+            <Title>Rajnino zlato - UŽIVO</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/31.8.2023_11_17_26_ROHBIH.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Krađa zlata iz rijeke Rajne pokreće lanac razornih događaja, sukobljavajući generacijama bogove i smrtnike. Ciklus “Prsten Nibelunga” može se pohval</Description>
+            <Duration>0</Duration>
+            <PhotoPath>src/main/resources/assets\31.8.2023_11_17_26_ROHBIH.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6568</Id>
+                    <Name>Christopher Maltman</Name>
+                </actors>
+                <actors>
+                    <Id>6569</Id>
+                    <Name>Christopher Purves</Name>
+                </actors>
+                <actors>
+                    <Id>6570</Id>
+                    <Name>Marina Prudenskaya</Name>
+                </actors>
+                <actors>
+                    <Id>6571</Id>
+                    <Name>Sean Panikkar</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6572</Id>
+                    <Name>Barrie Kosky</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1438</id>
+            <Title>Plaćenici 4</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/11.7.2023_11_11_54_EXPENDABLES_4_HR.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Filmska hit franšiza s najviše glumačkih zvijezda u povijesti! Plaćenici se vraćaju na velika platna u svom četvrtom izdanju i ponovo pred</Description>
+            <PhotoPath>src/main/resources/assets\11.7.2023_11_11_54_EXPENDABLES_4_HR.jpg</PhotoPath>
+            <Actors>
+                <actors>
+                    <Id>6573</Id>
+                    <Name>Jason Statham</Name>
+                </actors>
+                <actors>
+                    <Id>6574</Id>
+                    <Name>Curtis</Name>
+                </actors>
+            </Actors>
+            <Directors>
+                <director>
+                    <Id>6575</Id>
+                    <Name>Scott Waugh</Name>
+                </director>
+            </Directors>
+        </movie>
+        <movie>
+            <id>1439</id>
+            <Title>Don Quijote - UŽIVO</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/30.8.2023_16_18_24_ROHBIH.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;“Don Quijote”, temeljen na istoimenom epskom romanu Miguela de Cervantesa, prati pustolovine ekscentričnog plemića Don Quijotea i njegovog vjernog š</Description>
+            <Duration>210</Duration>
+            <PhotoPath>src/main/resources/assets\30.8.2023_16_18_24_ROHBIH.jpg</PhotoPath>
+            <Actors/>
+            <Directors/>
+        </movie>
+        <movie>
+            <id>1440</id>
+            <Title>Orašar - UŽIVO</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/31.8.2023_11_13_26_ROHBIH.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Pridružite se Clari na prekrasnoj zabavi koja se na sam Badnjak pretvara u čarobnu pustolovinu nakon što svi odu na počinak. Neka vas oduševi brilja</Description>
+            <Duration>170</Duration>
+            <PhotoPath>src/main/resources/assets\31.8.2023_11_13_26_ROHBIH.jpg</PhotoPath>
+            <Actors/>
+            <Directors/>
+        </movie>
+        <movie>
+            <id>1441</id>
+            <Title>Manon - UŽIVO</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/31.8.2023_11_21_42_ROHBIH.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Ova adaptacija romana Abbéa Prévosta utjelovljuje Kennetha MacMillana u njegovom najboljem izdanju; njegov akutni uvid u ljudsku psihologiju i njego</Description>
+            <Duration>195</Duration>
+            <PhotoPath>src/main/resources/assets\31.8.2023_11_21_42_ROHBIH.jpg</PhotoPath>
+            <Actors/>
+            <Directors/>
+        </movie>
+        <movie>
+            <id>1442</id>
+            <Title>Madama Butterfly - UŽIVO</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/31.8.2023_11_22_29_ROHBIH.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Kad se mlada gejša Cio-Cio-San uda za američkog mornaričkog časnika Pinkertona, vjeruje da ulazi u pravi, doživotni brak. Napustivši svoju vjeru i z</Description>
+            <Duration>195</Duration>
+            <PhotoPath>src/main/resources/assets\31.8.2023_11_22_29_ROHBIH.jpg</PhotoPath>
+            <Actors/>
+            <Directors/>
+        </movie>
+        <movie>
+            <id>1443</id>
+            <Title>Labuđe jezero - UŽIVO</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/31.8.2023_11_22_51_ROHBIH.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;U lovu, princ Siegfried slučajno naiđe na jato labudova. Jedan od njih pretvara se u prelijepu Odette te se princ odmah zaljubi. Ali, Odette je zača</Description>
+            <Duration>210</Duration>
+            <PhotoPath>src/main/resources/assets\31.8.2023_11_22_51_ROHBIH.jpg</PhotoPath>
+            <Actors/>
+            <Directors/>
+        </movie>
+        <movie>
+            <id>1444</id>
+            <Title>Carmen - UŽIVO</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/31.8.2023_11_23_16_ROHBIH.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Blistava nova produkcija Damiana Michieletta evocira svu strast i žar Bizetove glazbe, koja sadrži Carmeninu tešku Habaneru i inspirativnu pjesmu To</Description>
+            <Duration>220</Duration>
+            <PhotoPath>src/main/resources/assets\31.8.2023_11_23_16_ROHBIH.jpg</PhotoPath>
+            <Actors/>
+            <Directors/>
+        </movie>
+        <movie>
+            <id>1445</id>
+            <Title>Andrea Chenier - UŽIVO</Title>
+            <Description>&lt;img src="https://www.blitz-cinestar-bh.ba/resize.aspx?filename=Plakats/31.8.2023_11_23_46_ROHBIH.jpg&amp;amp;width=100" hspace="3" vspace="3" align="left"&gt;Na blještavoj zabavi u Parizu 18. stoljeća, pjesnik Andréa Chenier strastveno osuđuje Louisa XVI. Pet godina kasnije, revolucija je ustupila mjesto </Description>
+            <Duration>195</Duration>
+            <PhotoPath>src/main/resources/assets\31.8.2023_11_23_46_ROHBIH.jpg</PhotoPath>
+            <Actors/>
+            <Directors/>
+        </movie>
+    </movies>
+</moviearchive>

@@ -1,0 +1,10 @@
+hr\algebra\dal\models\MovieTableModel.class
+hr\algebra\dal\models\PeopleAndMovie.class
+hr\algebra\dal\models\People.class
+hr\algebra\dal\Repository.class
+hr\algebra\dal\RepositoryFactory.class
+hr\algebra\dal\sql\DataSourceSingleton.class
+hr\algebra\dal\models\User.class
+hr\algebra\dal\models\MovieArchive.class
+hr\algebra\dal\models\Movie.class
+hr\algebra\dal\sql\SqlRepository.class
